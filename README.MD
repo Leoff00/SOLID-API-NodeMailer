@@ -10,7 +10,7 @@
 ```npm run dev or yarn dev```
 
 ## Build
-> To transpile this project, use npm run build to generate a JS file transpiled.
+> To transpile this project, use  ```npm run build```  to generate a JS file transpiled.
 
 <p align="center"> Developed with 💜 By Leonardo Ferreira </p>
 
