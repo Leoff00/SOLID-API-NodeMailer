@@ -1,4 +1,4 @@
-<h1 align="center"> Project SOLID API with node mailer </h1>
+<h1 align="center"> 👨‍💻 Project SOLID API with node mailer  👨‍💻  </h1>
 
 ### This project was made by me following the rocketseat tutorial to build a API with SOLID Architecture.
 
